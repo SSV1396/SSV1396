@@ -8,9 +8,10 @@
 🚀 Passionate about building secure systems and  strengthen organizational defenses.  
 
 
-## Objective
+## 🎯 Objective
+ Seeking roles as a  Security Engineer, Security Analyst,Splunk Engineer, or SIEM Engineer. I bring expertise in Security operations, SIEM tuning (Splunk/ES), penetration testing, and DevSecOps to strengthen threat detection, incident response, and cloud/network security.
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
 
 
 ## Tools
