@@ -108,3 +108,4 @@
 ## Projects
 - <a href="https://github.com/SSV1396/Threat-Hunting"> Threat Hunting </a>
 - <a href = "https://github.com/SSV1396/Network_Vulnerability_Assessment"> Network Vulnerability Assesment </a>
+- <a href = "https://github.com/SSV1396/Red-Team-Exercise"> Red Team Phishing Attack Simulation </a>
